@@ -2,4 +2,4 @@
 _pearl_
 **vulpix**
 __heracross_
-_Vulpix is only exclusive in the Pokemon *Leafgreen* version!_
+__Vulpix is only exclusive in the Pokemon *Leafgreen* version!__
